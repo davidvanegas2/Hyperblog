@@ -1,11 +1,20 @@
 body
 {
-    color: springgreen;
+    color: black;
     text-align: center;
     font-family: "Arial";
     font-size: 20px;
     margin: 0;
     padding: 0;
+}
+#cabecera
+{
+    background: #33F;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 20, 0.5);
 }
 #container
 {
@@ -18,4 +27,8 @@ body
 #container h1
 {
     font-size: 20px;
+}
+#post
+{
+    padding: 1em;
 }
