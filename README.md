@@ -1,2 +1,7 @@
-# Hyperblog
-Estoy creando un blog mediante el curso de Git y Github de Platzi
+#Hyperblog
+Un blog increible donde aprendi a usar Git y GitHub
+>Mi nombre es David Felipe Vanegas Ramirez
+
+##Pontificia Universidad Javeriana
+* Ingenieria de Sistemas
+* 8 semestre
