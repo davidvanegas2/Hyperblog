@@ -1,6 +1,6 @@
 body
 {
-    color: teal;
+    color: black;
     text-align: center;
     font-family: Arial;
     font-size: 20px;
@@ -27,6 +27,7 @@ body
 #container h1
 {
     font-size: 20px;
+    padding: 3em;
 }
 #post
 {
